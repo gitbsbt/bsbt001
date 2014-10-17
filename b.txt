@@ -1,3 +1,0 @@
-win:a
-linux:a
-win:b
